@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bigtext {
+    font-size: 24px;
+}
+
+#idone {
+    font-size: 36px;
+    color: hsl(240, 100%, 50%);
+}
+
+#idtwo {
+    background-color: #63ca63;
+    font-weight: bold;
+}
